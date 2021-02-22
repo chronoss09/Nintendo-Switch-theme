@@ -13,7 +13,7 @@ Ici, je vais partagé avec vous tous les sources de mes thèmes Switch y compris
   * Disney Princess
   * FFVII
   * Hades
-  * Hyrule Warriors - L'Ôre du Fl‚au
+  * Hyrule Warriors - L'ère du Fléau
   * Killer Instinct
   * Lister dossier.bat
   * Luigis Mansion 3
@@ -35,7 +35,7 @@ Ici, je vais partagé avec vous tous les sources de mes thèmes Switch y compris
   * Super Nintendo
   * Test PS5 (en cours)
   * Trials of Mana
-  * Wood
+  * Wood (Atmosphere et SXOS)
   * Xenoblade
   * Zacian & Zamazenta
   * Zelda The Breath of Wild
