@@ -23,9 +23,8 @@ Ici, je vais partagé avec vous tous les sources de mes thèmes Switch y compris
   * Nintendo Minimal theme mod
   * Pokemon Generations Theme
   * Pokemon SwordSheld
-  * PS4 Infinity
+  * PS4 Infinity (en cours)
   * Raiponce
-  * ReadMe.txt
   * Sekiro
   * Simple theme
   * Spiderman
@@ -34,10 +33,10 @@ Ici, je vais partagé avec vous tous les sources de mes thèmes Switch y compris
   * Super Mario 3D All-Stars
   * Super Mario 3D World
   * Super Nintendo
-  * Test PS5
+  * Test PS5 (en cours)
   * Trials of Mana
   * Wood
   * Xenoblade
   * Zacian & Zamazenta
-  * Zelda
+  * Zelda The Breath of Wild
 
