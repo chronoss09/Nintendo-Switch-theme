@@ -8,7 +8,7 @@ Ce repertoire contiendra mes thèmes de la Switch, mes Boot Logo ainsi que mes t
   * Lancer votre HBL et appuyez sur la touche __-__ pour changer de thème.
 
 ## Installation Boot Logo :
-  * Placer le dossier contenant les fichiers *.ips* dans :
-   `* Pour Atmosphere : atmosphere -> exefs_patches`
-   `* Pour SX : sxos -> exefs_patches`
+  * Placer le dossier contenant les fichiers *.ips* dans :  
+   `* Pour Atmosphere : atmosphere -> exefs_patches`  
+   `* Pour SX : sxos -> exefs_patches`  
   
