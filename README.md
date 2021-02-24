@@ -9,6 +9,6 @@ Ce repertoire contiendra mes thèmes de la Switch, mes Boot Logo ainsi que mes t
 
 ## Installation Boot Logo :
   * Placer le dossier contenant les fichiers *.ips* dans :
-  `* Pour Atmosphere : atmosphere -> exefs_patches`
-  `* Pour SX : sxos -> exefs_patches
+   `* Pour Atmosphere : atmosphere -> exefs_patches`
+   `* Pour SX : sxos -> exefs_patches`
   
