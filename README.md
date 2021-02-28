@@ -1,4 +1,4 @@
-# Nintendo-Switch-theme
+# Customisation de la Nintendo Switch
 
 Ici, je vais partagé avec vous tous les sources de mes thèmes Switch y compris les .psd ainsi que les layouts. Libre à vous d'en faire ce que vous voulez.  
 Ce repertoire contiendra mes thèmes de la Switch, mes Boot Logo ainsi que mes thèmes pour le Homebrew Launcher.  
