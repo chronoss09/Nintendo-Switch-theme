@@ -12,3 +12,5 @@ Ce repertoire contiendra mes thèmes de la Switch, mes Boot Logo ainsi que mes t
    `* Pour Atmosphere : atmosphere -> exefs_patches`  
    `* Pour SX : sxos -> exefs_patches`  
   
+## BootSoundNX :
+ * Extraire l'archive à la racine de votre carte SD.
