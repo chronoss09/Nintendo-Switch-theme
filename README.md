@@ -14,3 +14,6 @@ Ce repertoire contiendra mes thèmes de la Switch, mes Boot Logo ainsi que mes t
   
 ## BootSoundNX :
  * Extraire l'archive à la racine de votre carte SD.
+
+## Un petit pain de vie :
+ * Pour ceux qui vouront me faire un don pour mes jolies thèmes, c'est par ce lien : [Paypal](https://www.paypal.com/paypalme/chronoss01)
